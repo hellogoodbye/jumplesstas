@@ -1,0 +1,69 @@
+#Celeste Min Jumps Prologue
+#Total Jumps = 4
+#Author - Roofon
+# andj  ,med/
+#This TAS is going to be insane
+#Just you wait
+console load 0
+
+
+#lvl_0
+   1
+  61
+  57,R
+   1
+  33,R,U,G
+  15,R
+   1,D
+  34,R
+  35,R,U,G
+  13,R
+  44,R,U,G
+  29,R
+  38,R,U,G
+  20,R
+   1,D
+  40,R
+  39,R,U,G
+  12,R
+   1,D
+   2,R
+  44,R,U,G
+  46,R
+  40
+
+#lvl_1
+  47,R
+  30,R,J
+  74,R,U,G
+  64,R
+   1,R,D
+  21,R,J
+  51,R,U,J,G
+  67,R,J
+  22,R,U,J,G
+   8,R,J
+   1,J
+  33,R,U,J,G
+  30,R,J
+ 118,R,U,J,G
+  40,J
+
+#lvl_2
+  31,R,J
+ 106,R,U,J,G
+  13,R
+   1,S
+   1,D,J
+  34
+  57,R
+  40
+
+#lvl_3
+ 335,R
+  38,R,J
+ 141,R
+  32,R,J
+   1,S
+   1,D,J
+ 201
