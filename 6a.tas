@@ -301,7 +301,7 @@ console load 6
   14,R,U,J,C
   28,J,F,
  120,J,F,50
-   5,R,J
+   6,R,J
   15,R,J,X
   15,R,U,J,C
   25,R,D,J
@@ -1644,7 +1644,6 @@ boss-18 1
   15,L,J,X
   36,L,D,J
   14,D,J
-
   31,J
   12,R,D,J,X
 #This jump definitely has POTENTIAL
@@ -1657,6 +1656,8 @@ boss-18 1
   15,J,K
   15,R,U,J,X
    4,R,J
+#touch the fucking thing
+#oh my god
   68,L,D,J
   24,D,J
    5,L,D,J
@@ -1804,15 +1805,18 @@ after-01
 #orb that way
 #but rn i don't want to
 # :)
- 101,L,U,J,G
-  10,L,J
-  11,L,U,J,G
+   9,L,J
+   1,J
+  87,U,J,G
+   6,R,J
+   5,L,J
+   2,J
+  12,U,J,G
   15,U,J,X
-   9,R,J
+   7,R,J
   15,U,J,X
-  30,R,J
-#POGGERS CHAMPION :D
- 345,J
+   5,R,J
+ 359,J
   40,J
 after-02
   44,J
