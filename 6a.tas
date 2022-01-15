@@ -7,7 +7,9 @@
 #play,Section boss-00
 
 console load 6 
- 111
+ 1
+#Start
+ 110
 
 //start
    1,S
