@@ -1,0 +1,64 @@
+#To sync:
+#Use Celeste v.1.4.0.0
+#If you're using Everest, turn off show Mod Options in game
+#Start from Begin
+
+Read,StartFullGameFile
+
+Read,0.tas,Start
+
+Read,Load1A
+
+Read,1a,Start
+
+Read,LoadANoCollects
+
+Read,2a,Start
+
+Read,LoadANoCollects
+
+Read,3a,Start
+
+Read,LoadA
+
+Read,4a,Start
+
+Read,LoadA
+
+Read,5a,Start
+
+Read,LoadA
+
+Read,6a,Start
+
+Add 197
+ 165
+   1,J
+Add 7
+ 230
+   1,J
+  43
+   1,J
+  45
+Add 29
+   1,J
+  32
+Add 1
+
+Read,7a,Start
+
+#Summit
+  45
+Add 29
+   1,J
+  32
+Add 1
+ 120
+   1,J
+ 150
+   1,S
+   2
+   1,D,J
+  20
+
+Read,Epilogue,Start
