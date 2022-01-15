@@ -15,7 +15,9 @@
 #add this after the section loads
 
 console load 3
-  34
+  1
+#Start
+  33
 
 #lvl_s0
   28,J
