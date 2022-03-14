@@ -1,86 +1,105 @@
-#2a in 1 jump
+#2a in 0 jumps
 console load 2
 
 #lvl_start
- 1
+   1
 #Start
- 190
-  15,R,X
-  13,R,C
-  40
+ 190,J
+  15,R,J,X
+  13,R,J,C
+  40,J
 
 #lvl_0 (0)
-   2,R,C
-   5,R
-  15,R,X
-   5,R
-  15,R,U,X
-  25,R,D
-   2,R
-  15,R,X
-   5,R
-  15,R,C
-   2,R
-  11,R,U,G
-  15,R,X
-  15,R,C
-  10,R,X
-  40
+   2,R,J,C
+   5,R,J
+  15,R,J,X
+   5,R,J
+  15,R,U,J,X
+  25,R,D,J
+   2,R,J
+  15,R,J,X
+   5,R,J
+  15,R,J,C
+   2,R,J
+  13,R,U,J,G
+  15,R,J,X
+  15,R,J,C
+  10,R,J,X
+  40,J
 
 #lvl_1 (0)
-   5,R,X
-   3,R
-  15,R,C
-   2,R
-  15,R,U,X
-  21,R
-  15,D,X
-   4,R,D
-   4,L,D
-  40
+   5,R,J,X
+   3,R,J
+  15,R,J,C
+   2,R,J
+  15,R,U,J,X
+  21,R,J
+  15,D,J,X
+   4,R,D,J
+   3,L,D,J
+  40,J
 
 #lvl_d0 (0)
-   4,L,D
-  11,L
-   1,L,D
-   1,L
-  40,L,D
-  73,R,D
-   1,D
-  15,R,D,X
-   2
-  15,R,C
-   2,R
-  15,R,U,G
-  15,R,X
-   6,R
-   9,L
-  15,R,D,X
-   5,R,U,Z
-  40
+   1,L,J
+   4,L,D,J
+  11,L,J
+   1,L,D,J
+   1,L,J
+  40,L,D,J
+  73,R,D,J
+   1,D,J
+  15,R,D,J,X
+   2,J
+  15,R,J,C
+   2,R,J
+  15,R,U,J,G
+  15,R,J,X
+   6,R,J
+   9,L,J
+  15,R,D,J,X
+   5,R,U,J,Z
+  40,J
 
 #lvl_d7
-  10,R,U,Z
-  23,R
-  15,R,U,Z
-  25,R
-  15,R,U,Z
-   9,R
-   3
-  15,R,U,X
-  43,R,D
-  15,R,X
-   2,R
-  40
+  10,R,U,J,Z
+  23,R,J
+  15,R,U,J,Z
+  25,R,J
+  15,R,U,J,Z
+   9,R,J
+   3,J
+  15,R,U,J,X
+  43,R,D,J
+  15,R,J,X
+   2,R,J
+  40,J
 
-#lvl_d8 [1 jump]
-   2,R
-  14,R,D,X
-  29,R,J
-  18,R,U,X
-   5,R
-  15,R,U,C
+#lvl_d8
+   5,R,J
+  15,U,J,X
+   1,L,J
+   9,J
+  10,U,J,G
+   6,J
+  48,U,J,G
+  15,L,D,J,X
+  71,U,J,G
+   8,R,J
+   8,L,J
+  30,U,J,G
+  50,R,J
+  15,U,X
+   1,L
+   9
+  17,U,G
+  13,R
+  15,R,U,X
   18,R
+   4
+   2,D
+  24,R,D
+  15,R,U,X
+  24,R
   15,U,X
   16,R
   10,R,X
