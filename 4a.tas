@@ -3,9 +3,10 @@
 console load 4
    1
 
-#a-00
-#Start
+//START
   69
+
+#a-00
   13,R
    1,D
    1,R
@@ -79,6 +80,10 @@ console load 4
   15,R,D,X
   15,R,D,C
    4,R
+
+
+
+
   15,R,X
   15,R,C
    3,R
@@ -134,6 +139,7 @@ console load 4
   18,R,U,X
   15,R,C
    2,R
+
   18,R,U,X
   15,R,D,C
   17,R,D
@@ -284,58 +290,16 @@ console load 4
 
 #a-09 (1J)
   15,R
-  28,R,K
-  10,R,U,K,G
-   6,K
-   9,U,K,G
-   6,K
-   9,U,K,G
-   6,K
-   9,U,K,G
-   6,K
-   9,U,K,G
-   6,K
-   9,U,K,G
-   6,K
-   9,U,K,G
-   6,K
-   9,U,K,G
-   6,K
-   9,U,K,G
-   6,K
-   9,U,K,G
-   6,K
-   9,U,K,G
-   6,K
-   9,U,K,G
-   6,K
-   9,U,K,G
-   6,K
-   9,U,K,G
-   6,K
-   9,U,K,G
-   6,K
-   9,U,K,G
-   6,K
-   9,U,K,G
-   6,K
-   9,U,K,G
-   6,K
-   9,U,K,G
-   6,K
-   9,U,K,G
-   6,K
-   9,U,K,G
-   6,K
-   9,U,K,G
-   6,K
-   9,U,K,G
-   6,K
-   9,U,K,G
-   6,K
-  84,U,K,G
+  29,R,K
+   7,K,G
+   3,U,K,G
+Repeat, 103
+   1,K,G
+   1,U,K,G
+EndRepeat
+  17,U,K,G
   15,U,K,X
-   6,K
+   3,K
   40,K
 
 //CHECKPOINT 1\\
@@ -595,46 +559,19 @@ console load 4
    6,R,J
   15,R,U,J,X
    9,R,J
-  14,U,J,G
-   6,J
-  14,U,J,G
-   6,J
-  14,U,J,G
-   6,J
-  14,U,J,G
-   6,J
-  14,U,J,G
-   6,J
-  14,U,J,G
-   6,J
-  14,U,J,G
-   6,J
-  14,U,J,G
-   6,J
-  14,U,J,G
-   6,J
-  14,U,J,G
-   6,J
-  14,U,J,G
-   6,J
-  14,U,J,G
-   6,J
-  14,U,J,G
-   6,J
-  14,U,J,G
-   1,J
-   1,L,J
-   1,J
-   1,L,J
-   2,J
-  39,R,U,J,G
+   7,J,G
+   3,U,J,G
+Repeat,53
+   1,J,G
+   1,U,J,G
+EndRepeat
+  77,U,J,G
   20,L,J
   15,L,X
   15,L
    2
   15,L,X
   15,U,Z
-
    4,R
    6
  105,L,U,G
@@ -740,62 +677,14 @@ console load 4
   15,R,U,J,C
    6,R,J
    3,J
-   9,U,J,G
-   6,J
-   9,U,J,G
-   6,J
-   9,U,J,G
-   6,J
-   9,U,J,G
-   6,J
-   9,U,J,G
-   6,J
-   9,U,J,G
-   6,J
-   9,U,J,G
-   6,J
-   9,U,J,G
-   6,J
-   9,U,J,G
-   6,J
-   9,U,J,G
-   6,J
-   9,U,J,G
-   6,J
-   9,U,J,G
-   6,J
-   9,U,J,G
-   6,J
-   9,U,J,G
-   6,J
-   9,U,J,G
-   6,J
-   9,U,J,G
-   6,J
-   9,U,J,G
-   6,J
-   9,U,J,G
-   6,J
-   9,U,J,G
-   6,J
-   9,U,J,G
-   6,J
-   9,U,J,G
-   6,J
-   9,U,J,G
-   6,J
-   9,U,J,G
-   6,J
-   9,U,J,G
-   6,J
-   9,U,J,G
-   6,J
-   9,U,J,G
-   6,J
-   9,U,J,G
-   6,J
-  65,U,J,G
-  21,L,J
+   7,J,G
+   3,U,J,G
+Repeat,90
+   1,J,G
+   1,U,J,G
+EndRepeat
+  33,U,J,G
+  20,L,J
   15,L,J,X
    4,L,J
   15,L,J,Z
@@ -807,6 +696,8 @@ console load 4
   15,U,J,C
    6,R,J
   40,J
+
+//CHECKPOINT 3\\
 
 #d-00
   11,R,J
@@ -1078,5 +969,4 @@ console load 4
   15,R,C
    7,R,X
    1,S
-   1,D,J
-  18
+   1,D,O
