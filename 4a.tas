@@ -80,10 +80,6 @@ console load 4
   15,R,D,X
   15,R,D,C
    4,R
-
-
-
-
   15,R,X
   15,R,C
    3,R
@@ -139,7 +135,6 @@ console load 4
   18,R,U,X
   15,R,C
    2,R
-
   18,R,U,X
   15,R,D,C
   17,R,D
@@ -293,13 +288,13 @@ console load 4
   29,R,K
    7,K,G
    3,U,K,G
-Repeat, 103
-   1,K,G
+Repeat, 64
+   1,D,K,G
    1,U,K,G
 EndRepeat
-  17,U,K,G
+  79,U,K,G
   15,U,K,X
-   3,K
+   5,K
   40,K
 
 //CHECKPOINT 1\\
@@ -561,11 +556,11 @@ EndRepeat
    9,R,J
    7,J,G
    3,U,J,G
-Repeat,53
-   1,J,G
+Repeat,36
+   1,D,J,G
    1,U,J,G
 EndRepeat
-  77,U,J,G
+ 106,U,J,G
   20,L,J
   15,L,X
   15,L
@@ -679,11 +674,11 @@ EndRepeat
    3,J
    7,J,G
    3,U,J,G
-Repeat,90
-   1,J,G
+Repeat, 61
+   1,D,J,G
    1,U,J,G
 EndRepeat
-  33,U,J,G
+  81,U,J,G
   20,L,J
   15,L,J,X
    4,L,J
