@@ -1,4 +1,4 @@
-#4a in 9 jumps
+#4a in 7 jumps
 
 console load 4
    1
@@ -455,26 +455,39 @@ EndRepeat
    4,L
    2,R
   40,R,J
-  15,R,X
-  15,U,C
-  64,L,U,G
-  40
+  15,R,J,X
+  15,U,J,C
+  64,L,U,J,G
+  40,J
 
-#c-04 (2J)
-  11,R
-  15,R,D,X
-   1,R
-   4,D,X
-  10,R,X
-  15,R,J
-  15,R,X
-  15,D,C
-  14,R,X
-  20,R,J
-  12,R
-  15,R,U,J,Z
-   5,R
-   4,L
+#c-04 (1J)
+  21,J
+   2,J,G
+   2,J
+  36,U,J,G
+   6,R,J
+   5,L,J
+   4,J,G
+   2,J
+   6,J,G
+   3,U,J,G
+Repeat, 8
+   1,D,J,G
+   1,U,J,G
+EndRepeat
+  77,U,J,G
+   6,R,J
+   5,L,J
+  25,U,J,G
+  50,R,J
+  15,R,U,X
+  33,R
+  12
+  14,R,Z
+  39,R,J
+  15,U,Z
+   3
+  13,R
   15,U,X
   10,R
   14,R,X
@@ -563,76 +576,117 @@ EndRepeat
  106,U,J,G
   20,L,J
   15,L,X
-  15,L
-   2
-  15,L,X
-  15,U,Z
-   4,R
-   6
- 105,L,U,G
-   2,R
-  15,U,X
-   8,R
-  15,L
- 141,L,U,G
-   4,D,X
-  11,R,U,X
-  25,L,U,G
-   4,D
-  11,U,X
-  40
+  15,L,J
+   2,J
+  15,L,J,X
+  15,U,J,Z
+   4,R,J
+   6,J
+ 107,L,U,J,G
+   2,R,J
+  15,U,J,X
+   8,R,J
+  15,L,J
+ 141,L,U,J,G
+   4,D,J,X
+  11,R,U,J,X
+  24,L,U,J,G
+   6,D,J
+  11,U,J,X
+  40,J
 
 #c-09
-  21,L,G
-  15,R,D,X
-  15,R,C
-  14,R
-  15,R,X
-  11,R
-  15,R,U,X
-  33,R,U,G
-  15,R,X
-   8,R
-  15,R,U,X
-  31,R,U,G
-  15,R,X
-  15,R,D,C
- 200,R,D
-  15,U,X
-  96,L,G
-  32,L,U,G
-  11
-  20,U
-   4,R
-  53,L,G
-  28,L,U,G
-   3,L,U
-  44,U
-   8,L,U
-  15,R,X
-   1,R
-  15,U,C
-  37,L,U,G
-  40
+  21,L,J,G
+  15,R,D,J,X
+  15,R,J,C
+  14,R,J
+  15,R,J,X
+  11,R,J
+  15,R,U,J,X
+  10,R,J
+  35,J,G
+   4,U,J,G
+   6,R,J
+  15,R,J,X
+   8,R,J
+  15,R,U,J,X
+  39,R,U,J,G
+  15,R,J,X
+  15,R,D,J,C
+ 200,R,D,J
+  15,D,J
+  15,U,J,X
+   2,L,J,G
+  23,J
+  36,J,G
+  13,U,J,G
+  43,U,J
+   8,R,J
+  13,L,J
+  35,J,G
+   8,U,J,G
+  16,L,J
+  11,L,U,J
+  46,U,J
+  15,R,J,X
+   1,R,J
+  15,U,J,X
+  10,L,J
+  33,U,J,G
+  40,J
 
-#c-07 (2J)
-  11,R
-  15,R,D,X
-   4,D,C
-  10,R,C
-  20,R,U,J
-  71,R,U,G
+#c-07 (1J)
+  22,J
+   6,J,G
+   3,U,J,G
+Repeat, 52
+   1,D,J,G
+   1,U,J,G
+EndRepeat
+   5,R,J
+   4,L,J
+   1,J
+   6,J,G
+Repeat, 8
+   1,J
+   6,J,G
+EndRepeat
+   3,J
+   2,J,G
+   2,J
+   8,J,G
+   3,U,J,G
+Repeat, 54
+   1,D,J,G
+   1,U,J,G
+EndRepeat
+   6,R,J
+   5,L,J
+   8,J,G
+   3,U,J,G
+Repeat,30
+   1,D,J,G
+   1,U,J,G
+EndRepeat
+  24,R,J
   15,R,U,X
-  30,R,U,G
-  63,R,J,G
-   9,R,D,J
-   9,R,U,J,G
-  23,L,J
+  47,R
+   3
+   4,R
+   2,R,J,G
+   4,L,J
+   6,R,J
+  20,R,D,J
+  35,D,J
+  15,R,J,X
+  13,U,J,G
+  25,L,J
   15,R,J,X
   30,R,U,J,G
   15,U,J,X
  163,R,U,J,G
-   5,R,J
+   3,R,J
+   3,J
   15,R,U,J,X
   16,R,J
   40,J
