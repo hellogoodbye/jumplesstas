@@ -1255,6 +1255,8 @@ EndRepeat
   13,U,J,G
    5,J
   10,U,J,G
+#if the dash bonks here
+#change the previous line to 11
   15,L,J,X
   15,L,D,J,C
   15,L,J,Z
