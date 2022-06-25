@@ -287,26 +287,21 @@ console load 1
   40,J
 
 #lvl_9b
-  15,R,J,C
+    15,R,J,C
   15,R,J,X
+   1,L,J
   15,U,J,C
-  16,L,D,J
+  17,L,D,J
   15,L,J,X
- 214,G
- #fuck
-   1,U,G
-   1,G
-   1,U,G
-   1,G
-  24,L,U,G
-   3,G
-   2,R
-  15,R,D,X
-  13,R
-  15,R,U,X
-  16,R
-  41,U,G
-  10,L
+   6,J,G
+  21,U,J,G
+   2,J
+  15,R,D,J,X
+  13,R,J
+  15,R,U,J,X
+  12,R,J
+  37,U,J,G
+  10,L,J
   15,U,X
   10,R
   11,U,X
