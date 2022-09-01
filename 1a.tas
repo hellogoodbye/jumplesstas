@@ -1,6 +1,7 @@
 #1a in 4 jumps
 console load 1
    1
+
 #Start
   88,J
 
@@ -31,16 +32,13 @@ console load 1
   33,R,J
   33,R,J,X
    1,R,D,J
-  15,R,J,C
-  15,U,J,X
-   3,R,J
-   2,J
+  15,R,J,X
    1,R,J
-   2,J
-   1,R,J
+  94,U,J,G
    1,J
-  92,R,U,J,G
+  15,U,J,X
    2,L,J
+   3,J
   40,J
 
 #lvl_3   
@@ -122,14 +120,18 @@ console load 1
 
 #lvl_6
   18,R,J
-   4,D,X
-  11,U,J,X
-  10,L,J
-  28,L,U,J,G
-   4,R,J
+  15,U,J,Z
+  10,J
+  15,L,U,J,G
+  15,L,J
+   1,L,J
+   1,J
   15,U,J,X
-   7,L,J
-  29,R,J
+   5,L,J
+   2,J
+   1,L,J
+   5,J
+  21,R,J
   15,R,U,J,X
   43,R,J
   15,R,J,Z
@@ -157,8 +159,12 @@ console load 1
    7,J
   82,L,U,J,G
   24,R,J
+   4,R,D,J
+   2,R,J
+   1,R,D,J
+   1,R,J
   15,R,U,J,X
-  25,R,D,J
+   9,R,J
   15,R,J,X
   10,R,U,J,G
   15,R,J,X
@@ -168,7 +174,6 @@ console load 1
   15,R,J,X
    3,R,J
   10,R,U,J,C
-#34.357
   40,J
 
 #lvl_6b 
@@ -270,10 +275,15 @@ console load 1
    1,R,J
   26,R,J,X
   15,R,D,J,C
-  25,J
+  20,J
+   2,L,J
+   2,J
   15,U,J,X
-  10,R,J
-  39,U,J,G
+  10,J
+  17,R,U,J,G
+   1,J,G
+   1,U,J,G
+  16,J
   11,U,J,X
   40,J
 
@@ -287,7 +297,7 @@ console load 1
   40,J
 
 #lvl_9b
-    15,R,J,C
+  15,R,J,C
   15,R,J,X
    1,L,J
   15,U,J,C
@@ -420,26 +430,43 @@ console load 1
    1,R,U,X
    2,R
   14,R,D,X
-  20
    4,L
+   3
+   1,L
+   3
+   1,L
    1
    1,L
-   1,G
-  11
-  22,G
+   1
+   1,L
+   2,R
+   1
+   1,L,G
+   1
+   2,R
+   2,L,D
+  28,G
    7,U,X
-  43,R,J
-  29,R,J,G
+  42,R,J
+   1,R,D,J
+   3,R,J,G
+   1,J
+  25,R,J,G
    9,R,U,J,G
   10,R,U,J
-   6,R,J,G
-  29,R,U,J,G
-   5,L,D,J
-   2,L
+   1,J
+   1,R,J,G
+   1,J
+   1,R,J
+   2,J
+   6,J,G
+  22,R,U,J,G
+   6,L,J
   15,U,X
   16,L
   13,L
-   8,R
+   1,D
+   7,R
    3
    4,D,X
   11,L,X
@@ -462,3 +489,4 @@ console load 1
    1,S
    1,D,J
   18
+ChapterTime: 1:28.978(5234)
