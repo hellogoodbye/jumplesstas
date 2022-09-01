@@ -275,13 +275,9 @@ console load 7
   12,R
   15,U,X
    5
-
-
   15,R,U,C
   11,R
    7
-
-
   14,L,Z
    1,L,J
    6,L
@@ -1386,6 +1382,8 @@ console load 7
   15,R,X
   35,R,J
   37,U,G
+
+
   15,U,X
   28,R
   16,R,X
@@ -1604,20 +1602,44 @@ console load 7
   15,L,X
    6,L
   14,R
-  56,U,G
-  10,R
-  13,L
-  22,L,J
-  15,U,J,X
-  10,L,J
-  80,L,U,J,G
-   8,R,J
-  15,R,U,J,X
-  34,R,J
-  34,J,G
-  42,R,U,G
+  55,U,G
+   4
+   3,L
+   3
+   1,L
+   1
+   1,R
+   6,R,G
+   2,U,G
+  10,L
+  15,L,U,X
+  18,L
+   6,G
+   3,U,G
+Repeat, 40
+   1,D,G
+   1,U,G
+EndRepeat
+  70,U,G
+  14,R
   15,R,U,X
-   6,R,C
+  28,R
+Repeat, 5
+   6,G
+   1
+EndRepeat
+   2,G
+   1
+  17,U,G
+   1,D,G
+   1,U,G
+   1,D,G
+   1,U,G
+   1,D,G
+   9,U,G
+  12,R
+  15,R,U,X
+   7,R,C
   37
    7,L
   15,U,X
@@ -1653,6 +1675,7 @@ console load 7
    1,S
    1,D,J
  141
+
 #g-00
   76
 #Section 3000m
