@@ -254,7 +254,6 @@ console load 4
   15,R,X
   15,R,U,C
    9,R
-
    9
    4,L
   15,R,X
@@ -279,23 +278,25 @@ console load 4
   15,R,U,X
    1,R
   15,U,X
-  45,L,U,G
-   5,U,X
+   9,R
+  10,U,X
   40
 
-#a-09 (1J)
-  15,R
-  29,R,K
-   7,K,G
+#lvl_a-09
+   5,R
+   5
+  29,K
+   6,K,G
    3,U,K,G
-Repeat, 64
-   1,D,K,G
+Repeat, 75
    1,U,K,G
+   1,D,K,G
 EndRepeat
-  79,U,K,G
+  68,U,K,G
   15,U,K,X
-   5,K
+   6,K
   40,K
+
 
 //CHECKPOINT 1\\
 
@@ -343,32 +344,50 @@ EndRepeat
    6,U,X
   43
    8
-  29,R,K
-  15,U,X
-  10,R
-  77,U,G
-  40
+  29,R,J
+  15,U,J,X
+  10,R,J
+  77,U,J,G
+  40,J
 
-#b-08b (1J)
-  38,L,U,G
-   1
-  17,J
-  46,U,G
-  45,G
-  18,U,X
-  47,U,G
-  25,G
-  18,R,U,X
-  25,R
-   4,D,X
-  11,R,U,X
-  70,L,U,G
+#b-08b
+  11,J
+  15,U,J,X
+  10,L,J
+   8,D,J
+   1,R,J
+   1,L,J,G
+   3,D,J
+   9,L,D,J
+   1,D,J
+   4,L,D,J
+  13,U,J,G
+   6,R,J
+  15,U,J,X
+   1,R,J
+   5,L,J
+   3,R,J
+   1,L,J
+  13,R,J
+  15,R,U,J,X
+  11,R,J
+Repeat, 101
+   1,J,G
+   1,J
+EndRepeat
+   9,J
+   7,J,G
+  11,U,J,G
+  15,U,J,X
+  10,J
+ 121,U,J,G
   40
 
 #b-08
   11,R
   15,R,U,X
-  21,R,D
+  10,R,D
+  11,D
    8
   23,R
   15,U,X
