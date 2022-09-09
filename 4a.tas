@@ -1,4 +1,4 @@
-#4a in 7 jumps
+#4a in 8 jumps
 
 console load 4
    1
@@ -282,7 +282,7 @@ console load 4
   10,U,X
   40
 
-#lvl_a-09
+#lvl_a-09 (1J)
    5,R
    5
   29,K
@@ -296,7 +296,6 @@ EndRepeat
   15,U,K,X
    6,K
   40,K
-
 
 //CHECKPOINT 1\\
 
@@ -371,7 +370,6 @@ EndRepeat
   13,R,J
   15,R,U,J,X
   11,R,J
-
 Repeat, 100
    1,J,G
    1,J
@@ -406,7 +404,6 @@ EndRepeat
    9,L
   57,L,U,G
   12,U
-
   13,R
   11
    1,L
@@ -624,8 +621,6 @@ EndRepeat
   11,R,U,J,X
   24,L,U,J,G
    6,D,J
-#2:22.018(8354)
-
   11,U,J,X
   40,J
 
