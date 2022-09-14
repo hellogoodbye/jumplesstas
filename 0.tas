@@ -40,22 +40,28 @@ console load 0
   64,R
    1,R,D
   21,R,J
-  51,R,U,J,G
-  67,R,J
-  22,R,U,J,G
-   8,R,J
-   1,J
-  33,R,U,J,G
-  30,R,J
- 118,R,U,J,G
-  40,J
+  51,R,U,G
+  66,R
+  22,R,U,G
+   8,R
+  33,R,U,G
+  29,R
+ 113,R,U,G
+  15,R
+  40
 
 #lvl_2
-  31,R,J
- 106,R,U,J,G
-  13,R
+  30,R
+   1,D
+   1
+   9,U,G
+   2,G
+  26,U,G
+  20,R
+  32,R,U,G
+  24,R
    1,S
-   1,D,J
+   1,D,O
   34
   57,R
   40
@@ -65,6 +71,6 @@ console load 0
   38,R,J
  141,R
   32,R,J
-   1,S
-   1,D,J
- 232
+   1,J,S
+   1,D,J,O
+ 232,J
