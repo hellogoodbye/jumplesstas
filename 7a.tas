@@ -1,5 +1,3 @@
-#first draft by med
-
 #console load 7 3088 -1768
 #play,Section 500m,37
 
@@ -2011,35 +2009,16 @@ EndRepeat
   21,R
   15,R,U,X
   33,R
-   4,G
-   3
-   1,G
-   3
-   1,G
-   3
-   1,G
-   3
-   1,G
-   3
-   1,G
-   3
-   1,G
-   3
-   1,G
-   3
-   1,G
-   3
-   1,G
-   3
-   1,G
-   3
-   1,G
-   3
-   1,G
-   3
-   1,G
-   3
-  61,U,G
+   6,G
+   3,U,G
+Repeat, 24
+   1,D,G
+   1,U,G
+EndRepeat
+  19,U,G
+   1
+   2,L
+   2,R
 
 #CP16
   15,U,X
