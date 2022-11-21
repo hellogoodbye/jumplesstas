@@ -741,12 +741,11 @@ EndRepeat
    4,J
   41,U,J,G
   21,R,J
-  15,R,J,X
-  15,U,C
-   6,L,J
+  15,R,U,J,Z
+  15,L,J
+  73,U,J,G
+  15,R,U,J,X
    4,J
- 118,U,J,G
-  21,R,J
   15,R,D,J,X
   15,R,U,J,C
    6,R,J
@@ -805,15 +804,24 @@ EndRepeat
 #d-02
    9,R,J
   15,R,D,J,X
-  14,R,D,J
-  15,R,J,X
-  41,R,D,J
-   3,J
-  32,R,J
-  14,R,U,J,X
-  83,L,J,G
-  15,R,J,X
+
+   5,J
+  15,R,D,J,C
   27,R,D,J
+  31,R,J
+  15,R,U,J,X
+  11,L,J
+  16,J,G
+   1,D,J,G
+   1,J,G
+   3,U,J,G
+   1,J,G
+   4,U,J,G
+  16,J
+  15,R,J,X
+   8,R,J
+  15,R,J,X
+  26,R,D,J
   15,R,U,J,X
    7,R,J
    4,D,J,X
@@ -1041,4 +1049,4 @@ EndRepeat
    1,S
    1,D,O
 
-ChapterTime: 4:05.378(14434)
+ChapterTime: 4:04.103(14359)
