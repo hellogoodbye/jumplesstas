@@ -1196,8 +1196,7 @@ EndRepeat
   11,U,G
   40,J
 
-#Elevator Shaft = 8
-#09-d = 3
+#09-d
   13,R
   15,R,X
    1,R
@@ -1384,23 +1383,16 @@ EndRepeat
    2,L
    8
   53,R,U,G
-   5,L
-   5,R,X
-   1,S
-   1,D,J,O
-  34
-   4,R
-  13,L
-  13,U,G
-  15,U,X
-   6,R
    4
-  67,U,G
-  12,R
+  11,U,X
+   1,S
+   1,D,O
+  34
    1
-  15,L,D,X
-  14,L
-  15,L,D
+  10,D
+   3,L,D
+   1,L
+  20,L,D
   15,L,Z
   18,L
   15,L,X
@@ -1770,4 +1762,4 @@ EndRepeat
    1,S
    1,D,O
   18
-ChapterTime: 5:33.676(19628)
+ChapterTime: 5:31.415(19495)
