@@ -209,11 +209,11 @@ console load 4
    1,R,J,G
    3,L,J
   26,R,J
-  15,R,J,X
-   9,R,D,J
-  10,L,D,J
-  16,R,D,J
-  15,R,J,X
+  15,R,X
+   9,R,D
+  10,L,D
+  16,R,D
+  15,R,X
    4,R
   40
 
@@ -222,24 +222,24 @@ console load 4
   15,R,U,Z
    2,R
   15,R,U,X
-  27,R,G
+  12,R
   15,L,X
-  21
+  31,R,D
+  12,U,Z
   15,U,X
-   9,L
+  13,L
   15,L,U,X
-   9,L
-  15,L,U,G
-  24,R
-  12,R,D
+   5,L
+  38,R
   15,R,D,X
-  15,R,U,C
-   2,R
+  15,R,U,Z
+   1
   15,R,D,X
-  15,R,U,C
-  19,R,D
+   8,R
   15,R,U,X
-  28,R
+  13,R
+  15,R,X
+  10,R
   43
 
 #a-08
@@ -1049,4 +1049,4 @@ EndRepeat
    1,S
    1,D,O
 
-ChapterTime: 4:04.103(14359)
+ChapterTime: 4:03.661(14333)
