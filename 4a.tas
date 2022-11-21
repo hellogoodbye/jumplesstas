@@ -215,32 +215,31 @@ console load 4
   16,R,D,J
   15,R,J,X
    4,R
-  40,J
+  40
 
 #a-07
-  15,R,J,X
-   4,D,J,C
-  11,R,U,J,C
-   2,R,J
-  15,R,U,J,X
-  27,R,J,G
-  15,L,J,X
-  21,J
-  15,U,J,X
-   9,U,J
-  15,L,U,J,X
-  22,L,U,J,G
-  37,R,D,J
-  15,R,D,J,X
-   4,D,J,C
-  11,R,U,J,C
-   3,R,J
-  15,R,D,J,X
-   8,R,J
-  28,R,U,J,X
-  15,R,C
-  10,R
-  43
+  15,R,X
+  15,R,U,Z
+   2,R
+  15,R,U,X
+  27,R,G
+  15,L,X
+  21
+  15,U,X
+   9,L
+  15,L,U,X
+   9,L
+  15,L,U,G
+  24,R
+  12,R,D
+  15,R,D,X
+  15,R,U,C
+   2,R
+  15,R,D,X
+  15,R,U,C
+  19,R,D
+  15,R,U,X
+  28,R
 
 #a-08
   15,R,D,X
