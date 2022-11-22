@@ -26,60 +26,70 @@ console load 7
 
 #a-00
   78
+   2,R
   15,R,U,X
+   2,R
   15,R,D,C
-  15,R,X
-   7,R
-  15,R,C
-  19,R
-  15,R,U,X
-   4,D,C
-  11,R,C
-  15,R,D
+   4,R
   15,R,X
    5,R
-   4,D,X
-  11,R,U,X
-   3,R
-  15,R,U,C
-  22,R
+  15,R,X
+  10,R
+  15,R,U,X
+   1,R
+  15,R,Z
+  15,R
+  15,R,X
+  12,R
   15,R,U,X
   15,R,U,C
-  15,R
+   9,R
+   6
+  15,R,U,X
+   1,R
+  15,R,U,C
+  13,R
   40
 
 #a-01
   15,R
   15,R,X
   23,R
-   4,D,X
-  11,R,U,X
-   5,R
-  10,L
-  55,U,G
-  20,R
+  15,R,U,Z
+   1,R
+   1
+   3,R
+   9,L
+  64,U,G
+   1,U,G
+   1,U,G
+  18,R
+   1,R,D
+   1,R
+   1,R,D
   15,R,U,X
-  21,R
+  17,R
   15,U,X
-  10,L
-  95,U,G
-  13,R
+   7,L
+   2
+   1,L
+  77,U,G
+  12,R
   15,R,U,X
   19,R
-  54,R,U,G
+  52,U,G
    7,R,X
+  40
 
 #a-02
-  40
    8,R,X
   15,R,U,C
-   4,D,X
-  11,R,U,X
-   2,R
+  15,R,U,Z
+   1,R
    6,L,U,X
-  46,R
-  15,U,X
-   3
+  45,R
+  15,U,Z
+   2
   15,U,X
    2
    8,R
@@ -91,20 +101,23 @@ console load 7
 
 #a-03
    4,R,X
-  12,R
+   3,R
   15,R,X
+   3,R
   15,R,U,C
    4,R
   15,R,X
-   1,R
-  15,U,X
-  15,R,C
-  25,L
-  42,R
+   5,R
+   4
   15,R,U,X
-  24,R
+  20,R
+  10,D,X
+  38,R
   15,R,X
-   6,R
+   9,R
+  15,R,X
+   7,R
+   3
   15,R,U,X
   19,R
   15,D,X
@@ -112,7 +125,7 @@ console load 7
    6,R
   15,R,X
    7,R
-  15,R,X
+  15,R,C
    3,R
   14,R,X
   40
@@ -130,16 +143,16 @@ console load 7
   11,R,X
   15,R
   15,U,X
+   4,R
+   2
+   7,L,U,X
+  12,R
+  15,U,Z
+   3,L
    3
-   5,R
-  10,L,X
-  29,L
-   4,D,X
-  11,U,X
-   9,L
   15,U,X
   10,R
-  31,R,U,G
+  36,R,U,G
   11,R,X
   43
 
@@ -150,7 +163,6 @@ console load 7
    4,D,X
   11,R,U,X
   13,R
-
   15,U,X
   39,R,D
   10,R
@@ -160,11 +172,11 @@ console load 7
   11,R,U,X
   12,R,D
   15,U,X
-  46,R
-   4,D,X
-  11,R,U,X
-  14,L
-  45,U,G
+  37,R
+   8,R,D
+  15,R,U,Z
+  11,L
+  43,U,G
    6,R
   15,R,U,X
   13,R
@@ -172,33 +184,35 @@ console load 7
   33,R
   15,R,U,X
   15,R,C
-   5,R
+   2
+   1,R
+   2
   15,R,D,X
   15,R,C
+   5,R,X
   40
 
 #a-06
+  10,R,X
+  15,R,C
   15,R,X
-  10,R
-  15,R,X
-   9,R
+   3,R
   37,R
-  15,R,U,X
+   6,R
+  15,R,X
    4,R
   15,R,U,C
-  11,R
+   2,R
   37,R
   15,R,U,X
    6,U,C
   19,L
   15,L,X
   25,L,D
-   4,D,X
-  11,L,X
+  15,L,Z
    9,L
-  57,R
-   4,D,X
-  11,R,X
+  56,R
+  15,R,Z
   13,R,C
  158
    1,S
@@ -2481,4 +2495,4 @@ EndRepeat
    1,D,J
   18
 
-ChapterTime: 10:22.863(36639)
+ChapterTime: 10:20.840(36520)
