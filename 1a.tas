@@ -6,6 +6,7 @@ console load 1
   88,J
 
 #lvl_1
+#jump is held from prologue
   15,R,U,J,X
   20,R,J
    3,J
@@ -491,34 +492,38 @@ console load 1
    1,J
    1,R,J
    2,J
-   6,G
-  23,R,U,G
-   6,L
-  15,U,X
-  16,L
-  13,L
-   1,D
-   7,R
-   3
-  15,L,Z
-  15,L,C
-   5,L
-  15,L,U,X
-   9,L
-   4,X
-  10,L,U,X
-  40
+   6,J,G
+  22,R,U,J,G
+   6,L,J
+  15,U,J,X
+  16,L,J
+  13,L,J
+   1,D,J
+   7,R,J
+   1,J
+   1,L,J
+   4,J
+  15,L,J,Z
+  15,L,J,C
+   5,L,J
+  15,L,U,J,X
+   9,L,J
+   4,J,X
+  10,L,U,J,X
+  40,J
 
 #end 
-  15,R
-  15,R,U,X
-  21,R
-  15,R,C
-   4,R
-  15,R,X
-   4,R
-   1,S
-   1,D,J
-  18
-ChapterTime: 1:29.318(5254)
+  15,R,J
+  15,R,U,J,X
+  21,R,J
+  15,R,J,C
+   4,R,J
+  15,R,J,X
+   4,R,J
+   1,J,S
+   1,D,J,O
+  18,J
+#jump is held for 2A
+ChapterTime: 1:29.352(5256)
+
 
