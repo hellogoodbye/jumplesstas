@@ -5,7 +5,7 @@
 #play,Section 1000m,37
 
 #console load 7 9976 -7176
-#play,Section 1500m,42
+#play,Section 1500m,37
 
 #console load 7 14640 -8400
 #play,Section 2000m,37
@@ -741,19 +741,19 @@ console load 7
   15,U,X
   15,R,C
   19,R,D
-  11,R,X
+   4,R
+   9,R,X
   40
 
 #d-01b
-   4,R,X
-  14,L
-  15,R,X
-  10,R
+   6,R,X
+  15,R,C
+   9,R
   15,R,U,X
-   6,R
-   5
-  15,R,U,X
-  39,R
+  13,R
+  15,R,U,Z
+  25,R
+  11,R,D
   15,R,X
   15,R,C
    5,R,X
@@ -2505,4 +2505,4 @@ EndRepeat
    1,D,O
   18
 
-ChapterTime: 10:12.680(36040)
+ChapterTime: 10:12.476(36028)
