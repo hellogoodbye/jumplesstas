@@ -498,33 +498,36 @@ console load 7
 #Section 1000m
   15,R,U,X
   15,R,D,C
-  15,R,X
-  35,R,U,C
-  15,R,X
-  15,R
-   4,D,X
-  26,R,X
+  15,R,U,X
+   5,R
+  35,R,C
+  15,R,U,X
+  33,R,Z
    2,R
-  15,R,C
-  32,R,X
-   9,R
-   4,D,X
-  11,R,X
-  30,U,C
-   6,R,U,X
+  15,R,X
+  32,R,C
+   8,R
+  15,R,Z
+   1,R
+  30,U,X
+   6,R,U,C
   40
 
 #c-01
   11,R
   14,R,D,X
-  23,R
+   1,R
+   6,R,D,X
+  11,R
   45,R,U,X
-  40,L,U,C
-  40,R,U,X
+   4,L,G
+  35,L,U,X
+   4,R,G
+  39,R,U,X
   30,L,C
-   4,D,X
-  11,L,U,X
-  12,U,C
+  15,L,U,X
+  15,U,C
+   1
   40
 
 #c-02
@@ -556,11 +559,10 @@ console load 7
   15,R,X
   35,R,C
   25,R
-  15,R,U,X
-   4,D,C
-  20,R,U,C
   15,R,X
-  16,D,C
+   2,R
+  33,R,U,X
+  12,D,C
   12,R
   15,R,D,X
    7,R
@@ -569,52 +571,47 @@ console load 7
    2,R
   15,U,X
    9,L,C
-  23,R
+  14,R
   15,R,X
-   5,R
-  55,R,X
-   4,D,C
-   4,R,C
+  10,R
+  63,R,X
+   5,R,U,Z
   40
 
 #c-04
-   7,R,C
-  15,R,U,X
-   6,R
-  15,R,U,X
-  18,R
-   4,D,X
-  11,R,U,X
-  19,U,C
+  10,R,U,Z
+   5,R
+  15,R,X
+   1,R
+  15,R,U,C
+  20,R,U,X
+  21,U,C
   10,U,X
   40
 
 #c-06
   11,L
-   4,D,X
-  11,L,U,X
-   3,L
+  15,L,U,Z
+   3
   21,U,X
+   4,R
   15,U,C
-  33,R,U,X
+  32,R,U,X
+   2
   15,U,C
-  23,L,U,X
-  15,R,U,C
-  12,R
-  15,U,X
-   6
-  26,L,U,C
-   6,R
-  15,R,U,X
-   2,R
-  15,U,X
-   2,R
+  28,L,U,X
+  15,U,C
+  26,R,U,X
+   4,L,G
+  18,L,U,X
+  15,U,C
+  11,U,X
   40
 
 #c-07
   11,R
   15,R,U,X
-  36,R,C
+  35,R,C
    4,R
   17,R,D,X
   15,R,U,C
@@ -681,8 +678,7 @@ console load 7
   23,L,U,C
   15,L,X
   21,L,D
-   4,D,X
-  17,L,X
+  21,L,Z
    8,L,U,C
   37,R
   15,R,U,X
@@ -697,47 +693,52 @@ console load 7
 #d-00
   81
 #Section 1500m
-  15,L,X
-  15,L,U,C
+  19,L
+   1,D
+   1,L
+   1
+   2,L
+   4
+   1,D
+   2
+  12,R,U,G
+  15,U,Z
+  12,L
   15,U,X
-  11,L
-  66,U,G
-  19,R
-  15,R,U,X
-  29,R
-   4,D,X
-  11,R,U,X
+   2,L
+   3
+   8,R
+  15,R,Z
    5,R
-   9,L
-  43,U,G
+  15,R,U,Z
+  11,L
+  46,U,G
   40
 
 #d-01
-   6,R
-   5
+  11,R
   15,R,D,X
-  15,R,U,C
-  17,R
-   4,D,X
-  11,R,X
    6,R
+   1
+   1,D
+   4
   15,R,U,X
-   8
-   5,R
-   1
-   7,R
-   4,D,X
-  11,R,X
+  15,R,Z
    6,R
-   9
-  15,R,X
-   1
-   4,D,X
-  11,R,X
-   1,R
   15,R,X
   15,U,C
+   2,R
   15,R,X
+  20,R,D
+   1,R
+   1,R,D
+   1,R
+  15,R,Z
+   2,R
+  15,R,X
+  15,R,D,C
+  15,U,X
+  15,R,C
   19,R,D
   11,R,X
   40
@@ -778,7 +779,6 @@ console load 7
   15,R,C
   17,R
   15,R,D,X
-
   15,R,U,C
   15,R,U,X
    9,R
@@ -790,40 +790,36 @@ console load 7
    4,D,X
   11,R,X
   24,R,D
-  15,R,X
+  10,R
+  15,R,U,Z
+  21,R
+  15,R,Z
+  10
    4,R
-   4,D,X
-  11,U,X
-  22,R
-   4,D,X
-  11,R,X
-  20,D
    6,R,D
   15,R,X
    6,R
   15,U,X
-  10,R
-   4,D,X
-  11,U,X
+   8,R
+  15,U,Z
   10,L
   32,U,G
-   2,R
-   4,D,X
-  11,R,U,X
+  11,R
+  15,R,U,Z
+   1,R
   15,R,C
-  15,R,X
-  19,L,D
+  15,R,D,X
+   1
+   3,G
   11,D
-   7,R,D
-   1,D
-   3,R,D
-   4,D,X
-  11,R,X
+  14,L,D
+  15,R,D
+  15,R,Z
   15,R,U,C
-  31,R,D
-   5,D
+  35,R,D
   15,U,X
-  10
+   9
+   1,R
   15,U,G
   15,U,X
   20,R
@@ -840,58 +836,65 @@ console load 7
   11,R,X
   15,R,U,C
   15,R
-   4,D,X
-  11,R,X
-  15,R,C
-  16,R
-  10,R,X
+  15,R,Z
+  15,R
+  15,R,X
+  10,R,C
   40
 
 #d-05
-   5,R,X
-  15,R,C
-  24,R,D
+   5,R,C
+  15,R,D,X
+   2
+  15,R,D,C
+   5,R,D
   15,R,X
-  15,R,C
+   2
+  15,R,X
   15,R
   15,R,X
-  16,R
+  21,R,D
   15,R,X
-  17,R
+  11,R
   15,R,U,X
   15,L,U,C
-  11
+   1,R
+   5
+   2,L
+   1
   15,R,U,X
   15,R,C
-  15,R,X
-  14,R
-   4,D,X
-  11,R,X
-  19,R,D
-  15,R,X
-  15,R,U,C
-  23,R
-  15,R,U,X
-  15,R,C
-   8,R
-  15,U,X
    3,R
+  15,R,X
+   3,R
+  15,R,D,X
+  15,R,C
+  15,R,D,X
+  13,R
+  15,R,U,X
+  15,R,C
+   7,R
+  15,R,U,X
+  15,R,C
   15,U,X
-   2,R
+   2
+  15,U,C
+   2
   40
 
 #d-06
   11,R
-   9,R,D,X
+   6,R,D,X
   11,R
   15,R,X
   15,R,C
-  17,R,D
+  16,R,D
   15,U,X
    1
   15,R,C
-  18,R,D
-  15,R,U,X
+  12,R,D
+   7,D
+  15,R,U,Z
   15,R,C
   26,R,D
   15,R,X
@@ -909,26 +912,23 @@ console load 7
   40
 
 #d-10
-   7,R,D
-  13,R
-  33,R,D
    3,R
-   4,D,X
-  11,R,U,X
-   8,R
-  15,U,X
-  44,R,D
-   4,D,X
-  11,R,U,X
+  15,R,D,X
+  20,R,D
    4,R
+  15,R,U,Z
+  15,R,U,X
+  20,R
+   5
+  11,R,D
+  15,R,U,Z
+   6,R
   15,U,X
-  40,R,D
-   7,R
-   4,D,X
-  11,R,U,X
-   5,R
+  43,R,D
+  15,R,U,X
+  15,R
   15,U,X
-  19,R
+  10,R
   15,R,X
    6,R,C
   40
@@ -936,27 +936,27 @@ console load 7
 #d-11
    9,R,C
   15,R,X
+   4,R
   15,R,C
-  18,R,D
-   5,L
+  22,D
   56
   15,U,X
    7
   15,U,C
    7
-  39,L
+  37,L
   15,L,X
   15,L,C
-  12,L
+   9,L,D
   43,R
+  26,R
+  15,R,Z
+  30,R,D
   15,R,X
-  15,R
-  15,R,U,X
-  45,R
-  15,R,U,X
-  12,R,D,C
+  15,R,U,C
+  11,R,D,X
   39,L
-  15,L,X
+  15,L,Z
    3,L
   15,L,C
    4,L
@@ -2505,4 +2505,5 @@ EndRepeat
    1,D,J
   18
 
-ChapterTime: 10:15.757(36221)
+ChapterTime: 10:12.748(36044)
+
