@@ -71,11 +71,18 @@ console load 7
    7,L
    2
    1,L
-  77,U,G
+
+
+  45,U,G
+   1,G
+   2,U,G
   12,R
   15,R,U,X
   19,R
-  52,U,G
+  65,U,G
+   1,G
+   1,U,G
+  12,R
    7,R,X
   40
 
@@ -694,6 +701,7 @@ console load 7
 #d-00
   81
 #Section 1500m
+
   19,L
    1,D
    1,L
@@ -1400,14 +1408,15 @@ console load 7
   15,R,U,Z
    2,R
   15,R,U,X
-  25,R,D
-   5,R,X
+  26,R,D
+   5,R,U,Z
   43
 
 #f-04
-  10,R,X
-  23,R
-  30,U,G
+  10,R,U,Z
+  28,R,D
+   6,R
+   7,R,U,G
   14,R,X
   17,R,J
   15,R,U,X
@@ -2565,4 +2574,4 @@ EndRepeat
    1,D,O
   18
 
-ChapterTime: 9:59.522(35266)
+ChapterTime: 9:59.301(35253)
