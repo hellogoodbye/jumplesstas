@@ -71,8 +71,6 @@ console load 7
    7,L
    2
    1,L
-
-
   45,U,G
    1,G
    2,U,G
@@ -255,8 +253,6 @@ console load 7
   40
 
 #b-01
-
-
   15,L
   15,U,Z
    6,L
@@ -283,7 +279,6 @@ console load 7
   40
 
 #b-02
-
    9,R,U,C
   15,R,X
   15,R,D,C
@@ -701,7 +696,6 @@ console load 7
 #d-00
   81
 #Section 1500m
-
   19,L
    1,D
    1,L
@@ -1020,7 +1014,6 @@ console load 7
 #e-03
   10,R,U,C
   25,R
-
   16,R,D
   15,R,X
   13,R
@@ -1323,7 +1316,6 @@ console load 7
   15,R,C
   15,R,X
   37,R
-
   15,U,X
   11,R,U,C
   37,L
