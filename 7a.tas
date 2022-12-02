@@ -88,13 +88,10 @@ console load 7
    8,R,X
   15,R,U,C
   15,R,U,Z
-   1,R
-   6,L,U,X
-  45,R
+  22,R
+  15,R,X
   15,U,Z
-   2
-  15,U,X
-   2
+  29,L,U,G
    8,R
   15,R,U,X
   15,R,C
@@ -2566,4 +2563,4 @@ EndRepeat
    1,D,O
   18
 
-ChapterTime: 9:59.301(35253)
+ChapterTime: 9:59.267(35251)
