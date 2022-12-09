@@ -113,7 +113,6 @@ console load 4
    4,R
   25,R,U,X
   36,R,U,G
-
   15,R,X
   15,R,C
   21,R,U,G
@@ -320,7 +319,6 @@ EndRepeat
    3
    9,U,G
   24,R,U,X
-
   15,R,U,C
    8,D
   15,R,D
@@ -473,22 +471,22 @@ EndRepeat
  132,L,U,J,G
   24,R,J
   15,R,X
-  15,R,U,C
-  14,R
+   5,R
+  15,R,U,X
+   4,R
   40
 
 #c-02 (1J)
+   1,R
   15,R,D,X
    8,R
   15,R,U,X
-   4,R
-  15,R,X
-  18,R
-   4,R,D,X
-  11,R,U,X
    3,R
-   4,L
-   2,R
+  15,R,X
+  18,R,D
+  15,R,U,Z
+   5
+   4,R
   40,R,J
   15,R,J,X
   15,U,J,C
@@ -653,12 +651,11 @@ EndRepeat
    8,U,J,G
   16,L,J
   11,L,U,J
-  46,U,J
-  15,R,J,X
-   1,R,J
+  58,U,J
+  21,R,U,J
   15,U,J,X
-  10,L,J
-  33,U,J,G
+   1,J
+   1,L,J
   40,J
 
 #c-07 (1J)
@@ -690,45 +687,38 @@ EndRepeat
    5,L,J
    8,J,G
    3,U,J,G
-Repeat,30
-   1,D,J,G
-   1,U,J,G
-EndRepeat
-  24,R,J
-  15,R,U,X
-  47,R
-   3
-   4,R
-   2,R,J,G
-   4,L,J
-   6,R,J
-  20,R,D,J
-  35,D,J
-  15,R,J,X
-  13,U,J,G
-  25,L,J
-  15,R,J,X
-  30,R,U,J,G
-  15,U,J,X
- 163,R,U,J,G
-   3,R,J
-   3,J
+   4,R,J
+   1,R
+  47,R,J
   15,R,U,J,X
-  16,R,J
+  62,R,D,J
+   8,R,J
+  15,U,J,X
+  14,R,J
+ 154,U,J,G
+   5,J
+  15,R,J,X
+   2,R,J
+  11,U,J,G
+  11,R,J,X
   40,J
 
 #c-08 
-   2,R,J
-  15,R,U,J,X
-  43,R,J
+   4,R,J,X
+   6,R,J
+  15,R,J,X
+   7,R,J
+  15,R,J,X
+   1,R,J
   15,L,J
   15,U,J,X
-  84,R,U,J,G
+  10,R,J
+  87,U,J,G
    1,L,J
-   1,J
-  26,R,J
+   2,J
+  24,R,J
   15,R,U,J,X
-  28,R,J
+  30,R,J
    8,R,J,X
   40,J
 
@@ -1049,4 +1039,4 @@ EndRepeat
    1,S
    1,D,O
 
-ChapterTime: 4:01.264(14192)
+ChapterTime: 3:57.983(13999)
