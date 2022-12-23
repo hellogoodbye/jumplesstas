@@ -368,51 +368,49 @@ EndRepeat
    5,R
   15,R,U,X
   19,R
-Repeat, 98
+Repeat, 16
    1,G
    1
 EndRepeat
-   7,R,D
-   2,G
-   1
-   1,G
-   1
-   6,G
-   5,U,G
-   3,G
-   5,R
   15,U,X
-  10
- 121,U,G
+  10,L
+   1,G
+   8
+  72,G
+   4,U,G
+  14,R
+  15,U,X
+   1,L
+  25,R
+  15,R,U,Z
+  11,L
+  56,U,G
   40
 
 #b-08
   11,R
   15,R,U,X
-  10,R,D
-  11,D
+  20,R,D
+   1,D
    8
   23,R
   15,U,X
    9,U,G
-  71,L,U,G
+  57,L,U,G
   84,D
   15,R,X
   21,R,G
    9,L
   57,L,U,G
-  12,U
-  13,R
-  11
-   1,L
-   3
+  16,U
+  30
+   8,U
    7,R
-   3
+   1
   15,L,D,X
   90,G
   30,U,G
- 150,G
-   5,G
+ 156,G
    1,U,G
    3,G
    4,U,G
@@ -1039,4 +1037,5 @@ EndRepeat
    1,S
    1,D,O
 
-ChapterTime: 3:57.983(13999)
+ChapterTime: 3:56.215(13895)
+
