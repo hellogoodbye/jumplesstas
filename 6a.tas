@@ -1,4 +1,4 @@
-#drafted by roofon
+  #drafted by roofon
 
 #load to badeline
 #console load 6 13994 144
@@ -995,7 +995,10 @@ EndRepeat
   15,R
   15,R,X
   16,R
-  37,R
+  25,R
+   1,S
+  10,O
+  12,R
   15,R,X
   17,R
    6,R,D
@@ -1058,13 +1061,8 @@ EndRepeat
   28,R
   15,U,X
   10
-  75,L,G
-  57,U,G
- 105,G
-   6,U,G
-  10,G
-   6,U,G
-   6,D
+  75,L,U,G
+   5
 Repeat, 20
    1,S
   10,O
@@ -1654,4 +1652,4 @@ EndRepeat
    1,S
    1,D,O
   18
-ChapterTime: 6:50.873(24169)
+ChapterTime: 6:47.915(23995)
