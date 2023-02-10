@@ -466,38 +466,39 @@ console load 1
    4,L
    3
    1,L
-   3
+   2
    1,L
    1
    1,L
-   1
+   2
    1,L
    2,R
-   1
-   1,L,G
-   1
+   7,L,U,G
+  15,R,U,X
    2,R
-   2,L,D
-  28,G
-   7,U,X
-  42,R,J
-   1,R,D,J
-   3,R,J,G
-   1,J
-  25,R,J,G
-   9,R,U,J,G
-  10,R,U,J
-   1,J
-   1,R,J,G
-   1,J
-   1,R,J
+   1
+   1,R
+   8
+   2,L
+   1
+   1,R
+   1
+   2,L,G
+   1
+  33,R,J
    2,J
-   6,J,G
-  22,R,U,J,G
+   3,J,G
+   2,J
+  14,J,G
+  19,U,J,G
+  10,R,J
+   1,J
+   2,R,J
+   3,J
+  28,U,J,G
    6,L,J
   15,U,J,X
-  16,L,J
-  13,L,J
+  29,L,J
    1,D,J
    7,R,J
    1,J
@@ -524,6 +525,6 @@ console load 1
    1,D,J,O
   18,J
 #jump is held for 2A
-ChapterTime: 1:29.352(5256)
+ChapterTime: 1:29.216(5248)
 
 
