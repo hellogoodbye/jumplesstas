@@ -2600,42 +2600,44 @@ EndRepeat
   15,U,X
   10,R
   26,U,G
-  13,L
-   6,U,X
-Repeat, 31
+  12,L
    1,S
-  10,O
-   2,R,U,G
-EndRepeat
-Repeat, 5
-   1,S
-  10,O
+  10,J
+   1,L
+   4,Z
+StunPause
+  11,U,Z
    2,L
-EndRepeat
+  33,R,U,G
+EndStunPause
    1,S
-  10,O
-   5,U,X
-Repeat, 17
+  10,J
+   1,G
+   4,Z
+StunPause
+  10,U,Z
+   9
+   1,R
+EndStunPause
    1,S
-  10,O
-   2,R
-EndRepeat
-   1,S
-  10,O
-   1
+  10,J
+   1,R
+  15,R,U,X
   15,R,D,C
+   3,L
 
 #CP04
   15,U,X
-   5,R
-  27,R,J
+   5,L
+  23,R,J
+   4,J
   15,R,U,X
   29,R
   15,R,U,X
-   3,R
+   4,R
   15,R,D,C
-   3,R
-   3
+   4,R
+   2
   15,U,X
    1
   15,R,Z
@@ -2813,4 +2815,4 @@ EndRepeat
    1,D,O
   18
 
-ChapterTime: 11:22.380(40140)
+ChapterTime: 11:18.385(39905)
