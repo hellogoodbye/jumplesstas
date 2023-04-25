@@ -63,27 +63,25 @@ console load 1
   40,J
 
 #lvl_4
-  10,J
-   3,R,J
+  11,R,J
    1,J
-   1,R,J
   15,U,J,X
-  10,R,J
-  20,U,J,G
-   1,D,J,G
-  25,U,J,G
-   4,R,J
+   1,J
+   1,L,J
+   8,J
+  52,R,U,J,G
+   1,J
   15,R,J,X
-   1,R,J
-  15,D,J,C
-  13,R,J
-   1,J
-   1,R,J
-   6,J
-  15,U,J,X
-   7,R,J
+   9,R,J
+   6,L,J
+   2,D,J
    3,J
-  31,U,J,G
+   1,L,D,J
+   6,J,G
+   6,U,J,G
+  15,U,J,Z
+  10,R,J
+  28,U,J,G
    2,L,J
   40,J
 
@@ -162,15 +160,14 @@ console load 1
    5,R,J
    6,L,J
   15,L,D,J
-   5,R,D,J
-  19,R,D,J,X
-  11,R,J
-  15,U,J,X
+   4,R,D,J
    1,R,J
-   1,J
-   1,R,J
-   7,J
-  82,L,U,J,G
+  15,R,D,J,X
+   3,R,J
+  15,R,J,X
+  15,U,J,C
+  10,L,J
+  79,U,J,G
   12,R,J
   12,R
    4,R,D
@@ -495,22 +492,21 @@ console load 1
    1,J
    2,R,J
    3,J
-  28,U,J,G
-   6,L,J
-  15,U,J,X
-  29,L,J
-   1,D,J
-   7,R,J
-   1,J
-   1,L,J
-   4,J
+  31,U,J,G
+   3,J,G
+  15,L,J,X
+  15,U,J,Z
+   1,R,J
+   2,J
+  14,L,J
+   6,J
   15,L,J,Z
-  15,L,J,C
+   1,L,J
+  15,L,J,Z
    5,L,J
   15,L,U,J,X
    9,L,J
-   4,J,X
-  10,L,U,J,X
+  14,L,U,J,X
   40,J
 
 #end 
@@ -525,6 +521,4 @@ console load 1
    1,D,J,O
   18,J
 #jump is held for 2A
-ChapterTime: 1:29.216(5248)
-
-
+ChapterTime: 1:28.978(5234)
