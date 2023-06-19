@@ -382,25 +382,26 @@ console load 1
    9,R,U,G
    3,L
   12,L,X
-  12,L
+   8,L
+   1
+   3,L
    7,R
    3,L
    2
    1,L
    1
-   1,L
-  58,U,G
-   2
-  15,U,Z
+  52,U,G
+  15,U,X
    5,L
    5,R
-  19,U,G
+  26,U,G
   26,L
   15,L,U,X
-  24,L
+  23,L
   15,L,D,C
+   2,L
   15,L,X
-  17,L
+  14,L
   15,U,Z
   10,R
   42,R,U,G
@@ -513,4 +514,4 @@ console load 1
    1,D,J,O
   18,J
 #jump is held for 2A
-ChapterTime: 1:27.975(5175)
+ChapterTime: 1:27.907(5171)
