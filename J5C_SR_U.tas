@@ -1,0 +1,185 @@
+console rmx2 5
+   1
+
+#Start 
+  61
+
+#lvl_00
+   2
+#waiting out the can't pause lmao
+
+   6
+  40,R
+   2
+   4,L,U,Z
+StunPause
+  11,L,U,Z
+   2,L
+  12
+   2,L
+SkipInput 3 1
+  15,R,X
+   8,R
+SkipInput 3 1
+  15,U,Z
+   1,R
+   9
+  27,L,U,G
+EndStunPause
+  15,R,U,X
+   4,R
+StunPause
+  20,R
+SkipInput 3 
+   7,R
+SkipInput 3 1
+  15,R,U,X
+  32,R
+SkipInput 3 1
+   8,R,D,X
+EndStunPause
+   7,R,D,X
+   5,R
+   1
+  15,R,U,X
+  28,R
+  15,R,X
+  28,R
+  79,R,U,G
+
+#Spinner cycle here ig
+   3
+
+   2,R
+  13,R,U,Z
+  40
+
+#lvl_01
+   2,R,U,Z
+   4,R
+  15,U,C
+   2,R
+   2
+   1,R
+   2
+   1,L
+   1
+   1,L
+  30,L,U,G
+  25,G
+   1,D,G
+   1,G
+   3,U,G
+   6,R
+   2
+   1,R
+   6
+   1,L
+   1
+   1,L
+  15,R,U,Z
+  18,L
+  29,G
+   4
+   2,L
+   8
+   1,L
+  17,R,G
+   6,D,G
+   3,G
+   2,D,G
+  10,R,X,G
+   1
+   1,D
+   3,R
+   6,R,D,X
+StunPause
+   9,R,D,X
+   3,R
+   4,R,D
+endStunPause
+   5,R
+   3,R,D
+   9,R,U,X
+  40
+
+#lvl_02 
+   6,R,U,X
+   5,R,C
+
+#Spinner Cycle
+   2
+
+  33,R,X
+  15,R,U,Z
+  33,R,D
+StunPause
+   1,R,D
+SkipInput 3 1
+   5,R,U,X
+  23,R
+SkipInput 3 1
+  15,R,X
+
+  22,R
+SkipInput 3 1
+  15,U,Z
+  10
+   6,L,G
+  29,L,U,G
+SkipInput,3
+   3
+SkipInput,3,1
+  15,R,X
+  10,D
+  14,R,D
+   2,D
+SkipInput,3,1
+   8,R,D,X
+endStunPause
+   7,R,D,X
+  11,R,U,C
+StunPause
+   3,D
+SkipInput,3
+   3
+  15,D
+   5,R,D
+  46,R
+SkipInput,3,1
+  15,R,U,Z
+   6,R
+endStunPause
+  13,R
+   5,R,Z
+StunPause
+  26
+SkipInput,3,1
+  15,R,D,X
+   1,R
+endStunPause
+  21,R,U,X
+  61,R,C
+  15,R,U,Z
+  35,R,D
+  15,R,Z
+  18,U,X
+  28,R,C
+  15,U,X
+  29,R,D
+  25,R,X
+   5
+   1,R
+  15,R,D,X
+  15,R,U,C
+  30,R,U,G
+  15,R,X
+  54,U,G
+   3,L
+  15,L,U,X
+  22,L
+   4,X
+   1,R,D,X
+ 135,R,D
+
+ChapterTime: 1:12.658(4274)
