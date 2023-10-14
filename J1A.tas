@@ -7,7 +7,6 @@ console load 1
   88,J
 
 #lvl_1
-#jump is held from prologue
   15,R,U,J,X
   20,R,J
    3,J
