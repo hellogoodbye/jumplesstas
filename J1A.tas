@@ -2,6 +2,7 @@
 console load 1
    1
 
+#J1A (4x) - jump held from prologue
 #Start
   88,J
 
