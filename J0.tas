@@ -1,12 +1,6 @@
-#Celeste Min Jumps Prologue
-#Total Jumps = 4
-#Author - Roofon
-# andj  ,med/
-#This TAS is going to be insane
-#Just you wait
 console load 0
 
-
+#J0 (4x)
 #lvl_0
    1
  #Start
