@@ -86,20 +86,16 @@ console load 1
   40,J
 
 #lvl_3b
-   6,R,J
+   7,R,J
    3,J
    1,R,J
    1,J
-   1,R,J
   15,R,J,X
   15,R,D,J,C
-  15,R,D,J,X
-   1,J
-  15,R,U,C
-   9,R,J
-   8,L,J
-   1,J
-   8,L,J
+  11,R,J
+  15,R,U,J,X
+  12,R,J
+  13,L,J
   15,U,J,X
   10,R,J
   15,U,J,C
@@ -195,35 +191,18 @@ console load 1
   15,R,C
   10,R
   15,R,X
-  16,L,D
-   1,G
-   1
-  15,R,U,X
-   6,R
-   8
-   3,L
-   1
-   2,L
-   3
-   1,D
-   1,L
-   1
-   1,L
-   1
-   1,L
-   1
-   1,L
-   1
-   1,L
-   1
-   2,L
+   8,R
+  15,R,Z
+   2,R
    2
-   2,L
-   1
-   2,D
-   5,R
+   1,R
+  11,G
+   3,U,G
+   1,G
+  13,U,G
+  14,R
   15,U,X
-  13,R
+  10,R
   15,R,X
    5,R
   15,U,C
@@ -516,4 +495,4 @@ console load 1
    1,D,J,O
   18,J
 #jump is held for 2A
-ChapterTime: 1:27.771(5163)
+ChapterTime: 1:27.482(5146)
