@@ -5,6 +5,7 @@ console load 2
    1,J
 #Start
  190,J
+
   15,R,J,X
    1,R,J
   12,R,J,C
@@ -90,14 +91,15 @@ console load 2
    7,L,J
    1,J,G
    2,L,J
+
   32,U,J,G
   15,R,J
-  35,R
+  28,R,J,G
+   1,D,J,G
+   1,J,G
+  13,R,J
   15,U,X
-  10
-   6,L,G
-   4,U,G
-  13,R
+  12,R
   15,R,U,X
   18,R
    4
@@ -111,6 +113,7 @@ console load 2
   40
 
 #lvl_d3
+
    5,R,X
   15,R,D,C
   15,R,D,X
@@ -245,8 +248,9 @@ console load 2
   18,R
   26,R,U,Z
    4
+   1,R
   15,R,X
-   3,R
+   2,R
   15,U,X
   10,L
   31,U,G
@@ -275,6 +279,8 @@ console load 2
   27,R,D
   20,R,U,Z
    4
+
+
   15,U,X
   10,L
   15,R,U,X
@@ -299,13 +305,13 @@ console load 2
    9,R
   30,U,G
   15,R,U,X
-  10,R
-   8
-  15,U,X
-  16,L,D
-  16,L,X
-   4
-  14,U,X
+   2,R
+   1,L
+   8,R
+  15,U,Z
+  19,L,D
+  20,L,X
+  14,U,C
   40
 
 #lvl_7
@@ -316,27 +322,21 @@ console load 2
   24,R
   15,R,X
    6,R
+
   15,L,X
-   3,L
-  26,U,Z
-   4
-  36,L
-   6,L,D
-  15,L,U,X
-  10,L
+  15,L,D,C
+  37,U,X
+  12,L
+  15,L,Z
+  23,L
    2
-  15,L,D,X
-   1,R
-  15,R,C
-  22,R,D
-  20,R,Z
-   4
-  11,R,D
-  15,R,U,X
-  10,R
-  15,U,Z
-  10,L
-  15,L,U,G
+  15,R,X
+  18,R
+  35,R,X
+  15,R,U,C
+   6,R
+  18,U,X
+   3,R
   40
 
 #lvl_8
@@ -345,7 +345,7 @@ console load 2
   15,L,C
   10,L
   15,U,C
-  16,L
+  15,L
   15,L,D,X
   15,L,C
   14,L
@@ -505,52 +505,43 @@ console load 2
 
 #lvl_12b
    6,R,C
-   5,R
-  26,R,X
-   4
-   3,R
-  24,R,X
-   4
-   3,R
-  24,R,X
-   4
-  25,R,D,X
-   4
-   2,R
-  25,R,X
-   4
-   3,R
-  15,R,D,X
-   2,R
-   8,R,C
+   7,R,X
+   9,R
+  29,R,X
+  31,R,C
+  31,R,X
+  31,R,C
+  29,R,X
+  16,R,D,C
+   1,R
+  10,R,U,X
   40
 
 #lvl_12
-   7,R,C
+   6,R,U,X
+  32,R,C
+
    2,R
-  15,R,D,X
-  15,R,C
-  10,R
-  15,R,X
-  15,U,C
+  15,R,U,Z
   15,R
   15,R,D,X
    7,R
-  18,R,X
-   4
-  20,R,D,X
-  15,R,U,C
+  22,R,X
+  20,R,D,C
+   5,R
+  15,R,U,X
   23,R
-  12,R,X
+   9,R,U,X
   40
 
+
 #lvl_13
-   3,R,X
-   9,R
-  15,R,U,C
-  19,R
+   6,R,U,X
+   4,R
   15,R,X
-   8,R,C
+  11,R
+  15,R,X
+   7,R,C
    1,S
    1,D,J
   17
@@ -690,4 +681,4 @@ console load 2
    1,S
    1,D,J
   18
-ChapterTime: 2:10.730(7690)
+ChapterTime: 2:09.319(7607)
